@@ -9,15 +9,42 @@ class Developer:
         self.name = "kkm-horikawa"
         self.birth_year = 1994
         self.role = "Software Engineer"
-        self.skills = ["Python", "Django", "JavaScript", "HTML", "CSS", "Bootstrap", "AWS", "Terraform", "Flutter"]
-        self.tools = ["VS Code", "Postman", "Git", "GitHub", "GitLab", "Redmine", "Slack", "DBeaver", "A5m2", "Tera Term", "Eclipse", "ffftp", "WinSCP", "WSL"]
+        self.skills = [
+            "Python",
+            "Django",
+            "JavaScript",
+            "HTML",
+            "CSS",
+            "Bootstrap",
+            "AWS",
+            "Terraform",
+            "Flutter",
+        ]
+        self.tools = [
+            "VS Code",
+            "Postman",
+            "Git",
+            "GitHub",
+            "GitLab",
+            "Redmine",
+            "Slack",
+            "DBeaver",
+            "A5m2",
+            "Tera Term",
+            "Eclipse",
+            "ffftp",
+            "WinSCP",
+            "WSL",
+        ]
         self.os = ["Windows", "Ubuntu", "CentOS", "Zorin OS", "Linux Mint"]
-    
+
     def __str__(self):
         return f"こんにちは、{self.name}です。"
 
+
 developer = Developer()
 print(developer)
+
 ```
 
 ### 使用ツール 🛠
