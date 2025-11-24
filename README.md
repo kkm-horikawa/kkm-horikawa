@@ -3,8 +3,8 @@
 
 ### 自己紹介 🚀
 
-![scouter-kkm-horikawa](https://github.com/user-attachments/assets/ad0a150a-8f7c-4ad6-abca-d923950907cb)
 
+![scouter-kkm-horikawa](https://github.com/user-attachments/assets/456aa68e-a2cb-4d6d-8a32-c8c1c9bec264)
 
 
 
