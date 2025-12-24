@@ -4,7 +4,7 @@
 [![Blog](https://img.shields.io/badge/Blog-refrainit.com-blue?logo=googlechrome&logoColor=white)](https://refrainit.com/)
 
 
-### 自己紹介 🚀
+### About Me 🚀
 
 ![scouter-kkm-horikawa](https://github.com/user-attachments/assets/f79dca02-b14f-4605-b828-a8cd516c3c40)
 
@@ -22,7 +22,7 @@
 [![trophy](https://github-trophies.vercel.app/?username=kkm-horikawa&theme=onedark&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 使用ツール 🛠
+### Tech Stack 🛠
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=ffffff)
