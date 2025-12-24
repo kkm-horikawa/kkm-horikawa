@@ -16,10 +16,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kkm-horikawa&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kkm-horikawa&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
