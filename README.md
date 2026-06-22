@@ -1,12 +1,12 @@
 [![typograssy](https://typograssy.deno.dev/api?text=Welcome%20to%20my%20GitHub%20profile!)](https://github.com/kawarimidoll/typograssy)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kkm-horikawa&color=blue)
-[![Blog](https://img.shields.io/badge/Blog-refrainit.com-blue?logo=googlechrome&logoColor=white)](https://refrainit.com/)
 
 
 ### About Me 🚀
 
-![scouter-kkm-horikawa](https://github.com/user-attachments/assets/f79dca02-b14f-4605-b828-a8cd516c3c40)
+<img alt="scouter-kkm-horikawa" src="https://github.com/user-attachments/assets/831b2d52-00d4-484a-a1b4-12ec2aef925d" />
+
 
 
 ### GitHub Stats 📊
